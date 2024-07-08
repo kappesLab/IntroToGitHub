@@ -1,6 +1,6 @@
 {
-  "name": "BlazorApp1",
-  "short_name": "BlazorApp1",
+  "name": "BlazorApp",
+  "short_name": "BlazorApp",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
